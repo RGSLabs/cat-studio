@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rabbitgamesdev.github.io/cat-studio/sitemap.xml
